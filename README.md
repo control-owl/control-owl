@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**control-owl/control-owl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’ve been a programmer since the days of AltaVista, more than 30 years of experience.
 
-Here are some ideas to get you started:
+These days, I program purely as a hobby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notice
+
+Please don’t send me job offers to my email!!!
+
+I already have a job, and a hobby. My life is fulfilled. 
+
+Still want my attention? Send some cryptos, and then we can talk.
+
+https://github.com/control-owl/eQ/blob/d3bug/doc/donations.md
